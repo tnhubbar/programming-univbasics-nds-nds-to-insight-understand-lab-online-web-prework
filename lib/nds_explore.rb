@@ -23,5 +23,6 @@ end
 #   end
 # end
 
-pretty_print_nds(nds)
+pretty_print_nds
+
  
